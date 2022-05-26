@@ -1,2 +1,2 @@
-# KodluyoruzCssOdevleri
-Kodluyoruz Css Ödevlerimin bulunduğu Repo
+# CSS Odevleri
+Kodluyoruz CSS eğitimi süreci için açtığım ödev reposu.
